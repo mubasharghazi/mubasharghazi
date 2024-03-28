@@ -1,3 +1,5 @@
+![logo](https://github.com/mubasharghazi/mubasharghazi/blob/main/bannar.png)
+
 <h1 align="center">Hi 👋, I'm Mubashar Ghazi</h1>
 <h3 align="center">A Passionate Computer Scientist from Pakistan</h3>
 
